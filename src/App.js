@@ -7,7 +7,6 @@ import SignIn from "./routes/sign-in/sign-in.component";
 const Shop = () => {
   return (
     <div>
-      <p>Shop Page</p>
       <Outlet />
     </div>
   )
